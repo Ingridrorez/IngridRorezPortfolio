@@ -63,27 +63,7 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Hyyruby}
-              isBlog={false}
-              title="Hyyruby"
-              description="Hyyruby is a website for keeping notes online. This website can also be used as a social media between connected friends."
-              ghLink="https://github.com/Ingridrorez/HyyRuby/"
-              // demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col> */}
-
-          {/* <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={KerjaApaSaja}
-              isBlog={false}
-              title="KerjaApaSaja"
-              description="KerjaApaSaja is a platform to find or provide jobs. This website has a network connection,that can later be used to find the job or worker needed."
-              ghLink="https://gitlab.com/qatros-development/KerjaApaSaja"
-              // demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col> */}
+        
 
           <Col md={4} className="project-card">
             <ProjectCard
